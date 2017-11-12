@@ -14,6 +14,7 @@ function logShout(string){
 
 function logWhisper(string){
   if (string === string.toLowerCase())
+  return console.log
   console.log('hello')
 }
 
